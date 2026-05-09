@@ -655,7 +655,7 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID, TarGeT, acc_name
 
     # BOT LOGIN UID
-    BOT_UID = int('15555465683')
+    BOT_UID = int('15508718285')
 
     Uid, Pw = '4748380206', 'u6t5667BYSTARGMROREbf1Nd'
 
