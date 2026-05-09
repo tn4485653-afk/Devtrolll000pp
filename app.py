@@ -655,9 +655,9 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID, TarGeT, acc_name
 
     # BOT LOGIN UID
-    BOT_UID = int('15508718285')
+    BOT_UID = int('15509918760')
 
-    Uid, Pw = '4748380206', 'u6t5667BYSTARGMROREbf1Nd'
+    Uid, Pw = '4748733430', 'm4statusdevBYSTARGMRYa56kJNI'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
